@@ -112,6 +112,16 @@ class acf_field_feather_icon extends acf_field {
             'other' => array() // Will be filled with uncategorized icons
         );
 
+        // Category labels for translation
+        $category_labels = array(
+            'arrows' => __('Arrows', 'acf-feather-icon'),
+            'media' => __('Media', 'acf-feather-icon'),
+            'social' => __('Social', 'acf-feather-icon'),
+            'interface' => __('Interface', 'acf-feather-icon'),
+            'devices' => __('Devices', 'acf-feather-icon'),
+            'other' => __('Other', 'acf-feather-icon')
+        );
+
         // Categorize remaining icons
         foreach ($icons as $icon) {
             $categorized = false;
@@ -148,7 +158,7 @@ class acf_field_feather_icon extends acf_field {
                             <option value="all"><?php esc_html_e('All Categories', 'acf-feather-icon') ?></option>
                             <?php foreach ($icon_categories as $category => $category_icons): ?>
                                 <option value="<?php echo esc_attr($category) ?>">
-                                    <?php echo esc_html(ucfirst($category)) ?>
+                                    <?php echo esc_html($category_labels[$category]) ?>
                                 </option>
                             <?php endforeach; ?>
                         </select>
@@ -235,7 +245,13 @@ class acf_field_feather_icon extends acf_field {
                 'choose_icon' => __('Choose Icon', 'acf-feather-icon'),
                 'clear_icon' => __('Clear Icon', 'acf-feather-icon'),
                 'search_icons' => __('Search icons...', 'acf-feather-icon'),
-                'all_categories' => __('All Categories', 'acf-feather-icon')
+                'all_categories' => __('All Categories', 'acf-feather-icon'),
+                'arrows' => __('Arrows', 'acf-feather-icon'),
+                'media' => __('Media', 'acf-feather-icon'),
+                'social' => __('Social', 'acf-feather-icon'),
+                'interface' => __('Interface', 'acf-feather-icon'),
+                'devices' => __('Devices', 'acf-feather-icon'),
+                'other' => __('Other', 'acf-feather-icon')
             )
         ));
     }

@@ -10,6 +10,7 @@ A custom field type for Advanced Custom Fields (ACF) Pro that adds a Feather Ico
 - Returns either HTML markup or icon class name
 - Fully responsive design
 - Compatible with the latest WordPress and ACF Pro versions
+- Translations available (currently: English, Brazilian Portuguese)
 
 ## Requirements
 
@@ -61,6 +62,18 @@ if ($icon) {
 ?>
 ```
 
+## Translations
+
+The plugin comes with the following translations:
+- English (default)
+- Brazilian Portuguese (pt_BR)
+
+To add a new translation:
+1. Copy the `languages/acf-feather-icon.pot` file
+2. Rename it to `acf-feather-icon-{locale}.po` (e.g., `acf-feather-icon-fr_FR.po` for French)
+3. Translate the strings in the file
+4. Generate the .mo file using a tool like Poedit or WP-CLI
+
 ## License
 
 This project is licensed under the GPL v2 or later - see the [LICENSE](LICENSE) file for details.
@@ -68,4 +81,8 @@ This project is licensed under the GPL v2 or later - see the [LICENSE](LICENSE) 
 ## Credits
 
 - [Feather Icons](https://feathericons.com/) - Beautiful open source icons
-- [Advanced Custom Fields](https://www.advancedcustomfields.com/) - The best custom fields plugin for WordPress 
+- [Advanced Custom Fields](https://www.advancedcustomfields.com/) - The best custom fields plugin for WordPress
+
+## Author
+
+Created by [Rhuan Carlos](https://rhuan.dev) 

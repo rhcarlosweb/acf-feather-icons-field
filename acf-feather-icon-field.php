@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: ACF Feather Icon Field
- * Plugin URI: https://github.com/yourusername/acf-feather-icon-field
+ * Plugin URI: https://github.com/rhuanbarreto/acf-feather-icon-field
  * Description: Adds a Feather Icon field type to Advanced Custom Fields Pro
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author: Rhuan Carlos
+ * Author URI: https://rhuan.dev
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: acf-feather-icon

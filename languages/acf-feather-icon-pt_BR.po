@@ -4,81 +4,83 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ACF Feather Icon Field 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/acf-feather-icon-field\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: Rhuan Carlos <rhuan@rhuan.dev>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2024-01-15T00:00:00+00:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2024-01-15T00:00:00+00:00\n"
 "X-Generator: WP-CLI 2.8.1\n"
 "X-Domain: acf-feather-icon\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: acf-feather-icon-field.php:27
 msgid "ACF Feather Icon Field requires Advanced Custom Fields PRO to be installed and activated."
-msgstr ""
+msgstr "O ACF Feather Icon Field requer que o Advanced Custom Fields PRO esteja instalado e ativado."
 
 #: fields/class-acf-field-feather-icon.php:14
 #: fields/class-acf-field-feather-icon.php:15
 msgid "Feather Icon"
-msgstr ""
+msgstr "Ícone Feather"
 
 #: fields/class-acf-field-feather-icon.php:31
 msgid "Return Format"
-msgstr ""
+msgstr "Formato de Retorno"
 
 #: fields/class-acf-field-feather-icon.php:32
 msgid "Specify the returned value on front end"
-msgstr ""
+msgstr "Especifique o valor retornado no front end"
 
 #: fields/class-acf-field-feather-icon.php:37
 msgid "Icon HTML"
-msgstr ""
+msgstr "HTML do Ícone"
 
 #: fields/class-acf-field-feather-icon.php:38
 msgid "Icon Class"
-msgstr ""
+msgstr "Classe do Ícone"
 
 #: fields/class-acf-field-feather-icon.php:116
 msgid "Choose Icon"
-msgstr ""
+msgstr "Escolher Ícone"
 
 #: fields/class-acf-field-feather-icon.php:120
 msgid "Select an icon"
-msgstr ""
+msgstr "Selecione um ícone"
 
 #: fields/class-acf-field-feather-icon.php:124
 msgid "Clear Icon"
-msgstr ""
+msgstr "Limpar Ícone"
 
 #: fields/class-acf-field-feather-icon.php:131
 msgid "Search icons..."
-msgstr ""
+msgstr "Buscar ícones..."
 
 #: fields/class-acf-field-feather-icon.php:133
 msgid "All Categories"
-msgstr ""
+msgstr "Todas as Categorias"
 
 #: fields/class-acf-field-feather-icon.php:150
 msgid "Arrows"
-msgstr ""
+msgstr "Setas"
 
 #: fields/class-acf-field-feather-icon.php:151
 msgid "Media"
-msgstr ""
+msgstr "Mídia"
 
 #: fields/class-acf-field-feather-icon.php:152
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #: fields/class-acf-field-feather-icon.php:153
 msgid "Interface"
-msgstr ""
+msgstr "Interface"
 
 #: fields/class-acf-field-feather-icon.php:154
 msgid "Devices"
-msgstr ""
+msgstr "Dispositivos"
 
 #: fields/class-acf-field-feather-icon.php:155
 msgid "Other"
-msgstr "" 
+msgstr "Outros" 
