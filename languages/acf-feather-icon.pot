@@ -1,0 +1,60 @@
+# Copyright (C) 2024 Your Name
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF Feather Icon Field 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/acf-feather-icon-field\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-15T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: acf-feather-icon\n"
+
+#: acf-feather-icon-field.php:27
+msgid "ACF Feather Icon Field requires Advanced Custom Fields PRO to be installed and activated."
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:14
+#: fields/class-acf-field-feather-icon.php:15
+msgid "Feather Icon"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:31
+msgid "Return Format"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:32
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:37
+msgid "Icon HTML"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:38
+msgid "Icon Class"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:116
+msgid "Choose Icon"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:120
+msgid "Select an icon"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:124
+msgid "Clear Icon"
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:131
+msgid "Search icons..."
+msgstr ""
+
+#: fields/class-acf-field-feather-icon.php:133
+msgid "All Categories"
+msgstr "" 
